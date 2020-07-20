@@ -4,7 +4,7 @@
 
 Responsive website template, coded by Carlos Esteban.
 
-Demo: link
+Demo: https://carlosestebancasado.github.io/responsive-web-design/
 
 This is a free simple responsive HTML5 and CSS3 template.
 

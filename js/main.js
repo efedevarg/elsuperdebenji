@@ -33,7 +33,7 @@ $(document).ready(function() {
     //Año automático y copyright en Footer
     var year = new Date();
     $(".cpryt").html('&copy;'+ year.getFullYear() +
-    ' Webdesign Responsive | Template by <a href="https://www.linkedin.com/in/carlos-esteban-casado/" target="_blank">Carlos Esteban</a>');
+    ' Webdesign Responsive | Template by <a href="https://github.com/CarlosEstebanCasado" target="_blank">Carlos Esteban</a>');
 
     //Función para procesar la petición del formulario
     $("#formContact").on('submit',formContact)
