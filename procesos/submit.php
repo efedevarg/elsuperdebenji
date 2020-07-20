@@ -33,7 +33,7 @@ if (isset($_POST['submit'])) {
         ";
 
         /*Envia el email*/
-        $to = "carlosbcn169@gmail.com";
+        $to = "youremail@mail.com";
         $from = $info['email'];
 
         //Asunto del correo
