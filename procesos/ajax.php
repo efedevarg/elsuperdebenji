@@ -48,7 +48,7 @@ $message = "
 ";
 
 /*Destinatario*/
-$to = "carlosbcn169@gmail.com";
+$to = "youremail@mail.com";
 
 //Remitente
 $from = $info['email'];

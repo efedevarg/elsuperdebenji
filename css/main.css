@@ -358,7 +358,7 @@ footer{
     }
 }
 
-/*Mobile Responsive*/
+/*Desktop*/
 
 @media (max-width: 992px){
     .notScrolled .show{
